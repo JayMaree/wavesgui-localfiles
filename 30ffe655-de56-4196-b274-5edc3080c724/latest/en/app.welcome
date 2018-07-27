@@ -2,9 +2,9 @@
   "infoTooltip": "Important information",
   "newUser": {
     "from": "from backup",
-    "getStarted": "SIGN IN",
+    "getStarted": "SIGN UP",
     "or": "or",
-    "restore": "SIGN UP",
+    "restore": "SIGN IN",
     "slides": [
       {
         "description": "Become part of a fast-growing area of the crypto world. You are the only person who can access your crypto assets.",
