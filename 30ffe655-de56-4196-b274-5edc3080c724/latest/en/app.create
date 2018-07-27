@@ -5,8 +5,8 @@
     "needConfirm": "You will confirm this phrase on the next screen.",
     "ok": "I’ve written it down",
     "or": "or",
-    "saveSecret": "Save backup phrase",
-    "warn": "Since only you control your money, you’ll need to save your backup phrase in case this app is deleted or",
+    "saveSecret": "Save login key",
+    "warn": "Since only you control your money, you’ll need to save your login key in case this app is deleted or",
     "writeSeed": "Please carefully write down these 15 words"
   },
   "confirmBackup": {
@@ -14,7 +14,7 @@
     "back": "go back",
     "clear": "Clear",
     "confirm": "Confirm backup",
-    "description": "Verify your backup phrase or",
+    "description": "Verify your login key or",
     "enterCorrect": "Please, tap each word in the correct order",
     "error": "Wrong order, try again.",
     "ok": "Confirm"
@@ -34,11 +34,11 @@
     "tosaved": "to a saved account"
   },
   "modal": {
-    "confirmBackupDescription": "Verify your backup phrase",
+    "confirmBackupDescription": "Verify your login key",
     "next": "Confirm",
     "prev": "Go back",
     "successContent": "You cannot change your secret phrase. If you accidentally sent it to someone or suspect that scammers have taken it over, then create a new Waves wallet immediately and transfer your funds to it.",
-    "successHeadline": "Treat your backup phrase with care!",
+    "successHeadline": "Treat your login key with care!",
     "understand": "I Understand"
   },
   "noBackupNoMoney": {
@@ -49,7 +49,7 @@
       "descriptionP2": "Please be careful and never input your SEED into these 'clients', because your account will be compromised and you will lose all of your funds.",
       "descriptionP3": "You should ONLY use the official Waves client.",
       "ok": "I understand",
-      "title": "Treat your backup phrase with care!"
+      "title": "Treat your login key with care!"
     },
     "or": "or",
     "skip": "Do it later",
